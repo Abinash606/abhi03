@@ -31,7 +31,7 @@ a:hover {
   color: #141111;
 }
 .banner {
-  background:url("https://webdevtrick.com/wp-content/uploads/black-background.jpg");
+  background:url("Background.jpg");
   background-size: cover;
   height: 1000px;
 }
